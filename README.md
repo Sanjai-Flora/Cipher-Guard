@@ -1,8 +1,18 @@
-# [Cipher Guard: Encrypt with Confidence!](https://github.com/Sanjai-Flora/Cipher-Guard.git)
+# [Cipher Guard: Encrypt with Confidence!](https://github.com/Sanjai-Flora/Cipher-Guard.git) 
 
-![intel](https://github.com/user-attachments/assets/8d23ef4d-8e46-4afd-bc68-62c81dfe6f97)
+![intel](https://github.com/user-attachments/assets/0f7efebd-789d-4774-ad13-b2f7e19f0174)
 
-Cipher Guard is a user-friendly file and folder encryption application built with Python, PyQt5, and robust cryptographic libraries.
+## Problem Statement
+Protecting the user password keys at rest (on the Disk)
+
+Develop an authorization application which in turn protects the password keys. Following are the high level feature
+- Encrypt [AES-256] a user chosen file or directory using a random key a.k.a File Encryption Key
+- Store the random key in a file which has to be protected via user pass phrase.
+- The user pass phrase as well as the random key can not be stored in plain form in the text file.
+- If the user pass phrase authentication is successful retrieve i.e decrypt the file using File Encryption Key
+
+## Description
+**Cipher Guard** is a user-friendly file and folder encryption application built with Python, PyQt5, and robust cryptographic libraries like Argon2id, Scrypt, ChaCha20-Poly1305, and AES-256-GCM. It empowers users to safeguard their digital world with strong encryption and a streamlined interface.
 
 ## Key Features
 
