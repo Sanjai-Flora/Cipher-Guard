@@ -27,7 +27,7 @@ Develop an authorization application which in turn protects the password keys. F
 
 ## Screenshots
 
-## How to Use:
+## How to Use
 
 ### Installation:
 
@@ -65,6 +65,3 @@ pip install -r requirements.txt
 - Passphrase Strength: Use a strong and unique passphrase for maximum security.
 - Password Management: Store your passphrase securely. Forgetting it will result in permanent data loss.
 - Backup Your Data: Always maintain backups of your important files, as encryption is not a substitute for a comprehensive backup strategy.
-
-## Disclaimer:
-This application is provided "as is" without warranty of any kind, express or implied. Use it at your own risk. The developers are not responsible for any data loss or damage that may occur.
