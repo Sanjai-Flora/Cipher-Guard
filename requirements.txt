@@ -1,0 +1,4 @@
+cryptography==42.0.8
+argon2-cffi==23.1.0
+PyQt5==5.15.10
+zxcvbn==4.4.28
