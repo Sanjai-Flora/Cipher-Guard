@@ -56,7 +56,7 @@ Develop an authorization application which in turn protects the password keys. F
 
 ## Key Resources
 - [Demo Video](https://github.com/Sanjai-Flora/Cipher-Guard/blob/e3dde8a51d71390b13480d0b42721ccc6d18bc9b/demo.mp4)
-- [Presentation](https://github.com/Sanjai-Flora/Cipher-Guard/blob/55c322562e3a4baf9ff8f12ed0f55a274e5328e5/presentation.pdf)
+- [Presentation](https://github.com/Sanjai-Flora/Cipher-Guard/blob/d18549b3b7e329483b581cd04418deefe348eb92/presentation.pdf)
 
 ## How to Use
 
