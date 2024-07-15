@@ -11,7 +11,7 @@ Develop an authorization application which in turn protects the password keys. F
 - The user pass phrase as well as the random key can not be stored in plain form in the text file.
 - If the user pass phrase authentication is successful retrieve i.e decrypt the file using File Encryption Key
 
-## Description
+🔒## Description
 **Cipher Guard** is a user-friendly file and folder encryption application built with Python, PyQt5, and robust cryptographic libraries like Argon2id, Scrypt, ChaCha20-Poly1305, and AES-256-GCM. It empowers users to safeguard their digital world with strong encryption and a streamlined interface.
 
 ## Key Features
