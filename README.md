@@ -27,6 +27,34 @@ Develop an authorization application which in turn protects the password keys. F
 
 ## Screenshots
 
+<table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/3940e71c-8041-47e3-ad56-65cc26be2d7d" alt="splash_screen">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d1e9c003-ce3f-4b66-9e9a-7dd540d2431e" alt="login">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/b4693d55-6f51-4f17-8e84-45607f098370" alt="main_screen">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/dd536959-b60f-45dd-ab39-947caabf505c" alt="notes">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/e86ddc6d-afb4-4764-abe6-9ca3521d8bc4" alt="history">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/172f62a9-2cba-457c-8aa7-1511039ca436" alt="instructions">
+      </td>
+    </tr>
+  </table>
+
+
 ## How to Use
 
 ### Installation:
