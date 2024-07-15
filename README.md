@@ -1,5 +1,7 @@
 # [Cipher Guard: Encrypt with Confidence!](https://github.com/Sanjai-Flora/Cipher-Guard.git)
 
+![intel](https://github.com/user-attachments/assets/8d23ef4d-8e46-4afd-bc68-62c81dfe6f97)
+
 Cipher Guard is a user-friendly file and folder encryption application built with Python, PyQt5, and robust cryptographic libraries.
 
 ## Key Features
