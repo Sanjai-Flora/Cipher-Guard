@@ -31,13 +31,25 @@ Develop an authorization application which in turn protects the password keys. F
 
 ### Installation:
 
-- Clone the repository: ```https://github.com/Sanjai-Flora/Cipher-Guard.git```
-- Navigate to the project directory: ```cd Cipher-Guard```
-- Install the required libraries: ```pip install -r requirements.txt```
+### 1. Clone the repository
+```
+https://github.com/Sanjai-Flora/Cipher-Guard.git
+```
 
-### Running the Application:
+### 2. Navigate to the project directory
+```
+cd Cipher-Guard
+```
 
-- Execute the main script: python ```main.py```
+### 3. Install the required libraries
+```
+pip install -r requirements.txt
+```
+
+### 4. Running the Application:
+ ```
+ main.py
+```
 
 ### Using Cipher Guard:
 
